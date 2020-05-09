@@ -1,2 +1,3 @@
-input_string = input()
-print('Hello, World.')
+i = 4
+d = 4.0
+s = 'HackerRank '
